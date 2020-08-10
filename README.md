@@ -1,5 +1,4 @@
-# Text-Miner
-<h1> A NLP Framework </h1> 
+<h1> Text Miner A NLP Framework </h1> 
 This is my M.Tech final project which is a nlp framework which exhibits a smart way of extracting sentiment from reviews and topics from documents and done some text analytics built using python well known libraries<br>
 <h1> Tasks done(models built)</h1>
 1.Text Analytics:- Named entity extraction, chunking etc.<br>
